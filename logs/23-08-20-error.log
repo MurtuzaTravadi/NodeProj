@@ -1,0 +1,13 @@
+{"message":"internal create user error :TypeError: Cannot read property 'create' of undefined","level":"error","timestamp":"2020-08-23 17:10:30"}
+{"message":"internal create user error :TypeError: Cannot read property 'create' of undefined","level":"error","timestamp":"2020-08-23 17:12:14"}
+{"message":"internal create user error :TypeError: Cannot read property 'create' of undefined","level":"error","timestamp":"2020-08-23 17:15:28"}
+{"message":"internal create user error :TypeError: userModel is not a constructor","level":"error","timestamp":"2020-08-23 17:19:05"}
+{"message":"internal create user error :TypeError: userModel is not a constructor","level":"error","timestamp":"2020-08-23 17:19:56"}
+{"message":"internal create user error :TypeError: userModel is not a constructor","level":"error","timestamp":"2020-08-23 17:20:45"}
+{"message":"internal create user error :TypeError: Cannot read property 'create' of undefined","level":"error","timestamp":"2020-08-23 17:24:56"}
+{"message":"internal create user error :TypeError: Cannot read property 'create' of undefined","level":"error","timestamp":"2020-08-23 17:27:11"}
+{"message":"internal create user error :TypeError: Cannot read property 'create' of undefined","level":"error","timestamp":"2020-08-23 17:27:30"}
+{"message":"internal create user error :TypeError: userModel is not a constructor","level":"error","timestamp":"2020-08-23 17:31:46"}
+{"message":"internal create user error :SyntaxError: Unexpected token m in JSON at position 0","level":"error","timestamp":"2020-08-23 18:05:29"}
+{"message":"internal create user error :SyntaxError: Unexpected token m in JSON at position 0","level":"error","timestamp":"2020-08-23 18:05:46"}
+{"message":"internal create user error :SyntaxError: Unexpected token m in JSON at position 0","level":"error","timestamp":"2020-08-23 18:06:53"}
